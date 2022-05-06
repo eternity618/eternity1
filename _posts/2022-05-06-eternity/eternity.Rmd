@@ -3,8 +3,7 @@ title: "eternity"
 description: |
   A short description of the post.
 author:
-  - name: Nora Jones
-    url: https://example.com/norajones
+  - name: eternity
 date: 2022-05-06
 output:
   distill::distill_article:

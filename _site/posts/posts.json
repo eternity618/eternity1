@@ -15,5 +15,22 @@
     "preview": {},
     "last_modified": "2022-05-06T13:53:07+09:00",
     "input_file": {}
+  },
+  {
+    "path": "posts/2022-05-06-eternity/",
+    "title": "eternity",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "eternity",
+        "url": {}
+      }
+    ],
+    "date": "2022-05-06",
+    "categories": [],
+    "contents": "\r\nDistill is a publication format for scientific and technical writing,\r\nnative to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-05-06T13:58:32+09:00",
+    "input_file": "eternity.knit.md"
   }
 ]
